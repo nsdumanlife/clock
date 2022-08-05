@@ -1,5 +1,4 @@
-# Coyotiv - School of Software Engineering
-  ## HTML + CSS + JavaScript starter Template  
+# CSS + JS Clock Project
 &nbsp;
 
 ---  
@@ -10,11 +9,7 @@
 
 &nbsp;  
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/coyotiv/sose-starter)
-&nbsp;  
 
-Now you can directly work in your browser!  
-&nbsp;
 
 ## Getting started  
 &nbsp;
@@ -31,7 +26,6 @@ Now you can directly work in your browser!
 
 To style to your **index.html**, you can start using: 
 - the **styles.css** file located under the **_stylesheets_** folder, it's already linked with the **_index.html_** and add your own custom styles
-- or if you prefer you can use [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/), it's also already linked with the **_index.html_**
 <p>&nbsp;</p>  
 
 ### JS
