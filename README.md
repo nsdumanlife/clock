@@ -1,5 +1,4 @@
 # CSS + JS Clock Project
-&nbsp;
 
 ---  
 
